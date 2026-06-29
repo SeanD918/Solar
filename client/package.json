@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "vercel-build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
@@ -15,7 +16,7 @@
     "html2canvas": "^1.4.1",
     "jspdf": "^2.5.1",
     "leaflet": "^1.9.4",
-    "lucide-react": "^0.344.0",
+    "lucide-react": "^0.525.0",
     "react": "^19.2.4",
     "react-chartjs-2": "^5.2.0",
     "react-dom": "^19.2.4",
